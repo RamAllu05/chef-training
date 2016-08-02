@@ -1,0 +1,8 @@
+name 'write_Content'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures write_Content'
+long_description 'Installs/Configures write_Content'
+version '0.1.0'
+depends 'file_Create'

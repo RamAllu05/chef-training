@@ -1,0 +1,7 @@
+name 'file_Create'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures file_Create'
+long_description 'Installs/Configures file_Create'
+version '0.1.0'
